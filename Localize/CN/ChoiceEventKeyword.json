@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "id": "EGO_GIFT",
+      "content": "E.G.O饰品"
+    },
+    {
+      "id": "OnStageStart",
+      "content": "进入关卡时"
+    },
+    {
+      "id": "IncludeSkillAttribute",
+      "content": "判定：技能组内包含此罪孽的"
+    },
+    {
+      "id": "NotIncludeSkillAttribute",
+      "content": "判定：技能组内不含此罪孽的"
+    },
+    {
+      "id": "NextBattle",
+      "content": "参与下场战斗"
+    },
+    {
+      "id": "LowestMp",
+      "content": "理智值最低"
+    },
+    {
+      "id": "FAILURE",
+      "content": "判定失败的"
+    },
+    {
+      "id": "SUCCESS",
+      "content": "判定成功的"
+    }
+  ]
+}

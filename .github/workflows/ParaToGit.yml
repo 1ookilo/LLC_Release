@@ -1,0 +1,28 @@
+name: ParaToGit
+
+on:
+  schedule:
+    - cron:  '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Run build script
+      run: |
+        ./Download.ps1 ${{ secrets.PARATRANZ_ROOT }}
+    - name: Upload Error.txt to artifact
+      if: steps.check_error.outputs.has_error == 'true'
+      uses: actions/upload-artifact@v2
+      with:
+        name: error-log
+        path: ./Error.txt
+    - name: Cancel workflow if Error.txt exists
+      if: steps.check_error.outputs.has_error == 'true'
+      run: |
+        echo "Error detected, cancelling workflow"
+        echo ${{ steps.check_error.outputs.error }}
+        exit 1

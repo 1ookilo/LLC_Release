@@ -9330,7 +9330,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合对自身施加1层麻痹"
+                  "desc": "[OnSucceedAttackTail] 下回合对自身施加1层麻痹 "
                 }
               ]
             },

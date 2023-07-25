@@ -6692,7 +6692,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "愚不可及……！",
+          "name": "愚不可及…！",
           "desc": "[StartBattle] 使自身获得1层守护 \n若自身的体力不高于50%，则使本技能的最终威力+2",
           "coinlist": [
             {}
@@ -7187,7 +7187,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "净……化！",
+          "name": "净…化！",
           "desc": "[WinDuel] 使自身恢复3点理智值",
           "coinlist": [
             {
@@ -7201,7 +7201,7 @@
         },
         {
           "level": 2,
-          "name": "净……化！",
+          "name": "净…化！",
           "desc": "[WinDuel] 使自身恢复5点理智值",
           "coinlist": [
             {
@@ -8239,7 +8239,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "够了……",
+          "name": "够了…",
           "desc": "[StartBattle] 使自身恢复5~10点理智值",
           "coinlist": [
             {}
@@ -9593,7 +9593,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "好重……！",
+          "name": "好重…！",
           "desc": "",
           "coinlist": [
             {
@@ -9607,7 +9607,7 @@
         },
         {
           "level": 2,
-          "name": "好重……！",
+          "name": "好重…！",
           "desc": "",
           "coinlist": [
             {
@@ -9624,7 +9624,7 @@
         },
         {
           "level": 4,
-          "name": "好重……！",
+          "name": "好重…！",
           "desc": "[WhenUse] 下回合使本技能行动槽的挑衅值 +4\n[DefeatDuel] 使目标增加2级震颤 强度与2级破裂 强度",
           "coinlist": [
             {
@@ -9646,7 +9646,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "好晕……！",
+          "name": "好晕…！",
           "desc": "",
           "coinlist": [
             {
@@ -9667,7 +9667,7 @@
         },
         {
           "level": 2,
-          "name": "好晕……！",
+          "name": "好晕…！",
           "desc": "",
           "coinlist": [
             {
@@ -9688,7 +9688,7 @@
         },
         {
           "level": 4,
-          "name": "好晕……！",
+          "name": "好晕…！",
           "desc": "[WhenUse] 下回合使本技能行动槽的挑衅值 +4\n[DefeatDuel] 使目标增加3级震颤 强度与3级破裂 强度",
           "coinlist": [
             {

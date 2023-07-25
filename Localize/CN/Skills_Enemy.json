@@ -960,7 +960,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "都瞧好了……！",
+          "name": "都瞧好了…！",
           "desc": "[StartBattle] 使自身获得1层强壮 ",
           "coinlist": [
             {}
@@ -2206,7 +2206,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "圣锤，听命……！",
+          "name": "圣锤，听命…！",
           "desc": "[WinDuel] 下回合使全体友方单位获得1层狂信 ",
           "coinlist": [
             {
@@ -2316,7 +2316,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "铸就伟业……！",
+          "name": "铸就伟业…！",
           "desc": "[WhenUse] 下回合使全体友方单位获得1层N公司的尖钉 ",
           "coinlist": [
             {}
@@ -2329,7 +2329,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "涤净……罪孽！",
+          "name": "涤净…罪孽！",
           "desc": "",
           "coinlist": [
             {
@@ -2381,7 +2381,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "愚不可及……！",
+          "name": "愚不可及…！",
           "desc": "",
           "coinlist": [
             {
@@ -2904,7 +2904,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "圆锯……下切。",
+          "name": "圆锯…下切。",
           "desc": "",
           "coinlist": [
             {
@@ -2950,7 +2950,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "装填……发射",
+          "name": "装填…发射",
           "desc": "",
           "coinlist": [
             {

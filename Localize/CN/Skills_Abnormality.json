@@ -529,7 +529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "该干活了……",
+          "name": "该干活了…",
           "coinlist": [
             {},
             {}
@@ -555,7 +555,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "不眠不休……",
+          "name": "不眠不休…",
           "coinlist": [
             {}
           ]
@@ -567,7 +567,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "收拾掉吧……",
+          "name": "收拾掉吧…",
           "coinlist": [
             {},
             {}
@@ -595,7 +595,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "不眠不休……",
+          "name": "不眠不休…",
           "coinlist": [
             {}
           ]
@@ -2662,7 +2662,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "咯……",
+          "name": "咯…",
           "desc": "",
           "coinlist": [
             {}
@@ -2786,7 +2786,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "库库……",
+          "name": "库库…",
           "desc": "",
           "coinlist": [
             {}
@@ -3783,7 +3783,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "别碰我……！",
+          "name": "别碰我…！",
           "desc": "[StartBattle] 使自身获得荆棘 ",
           "coinlist": [
             {}
@@ -3876,7 +3876,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "如盛放的花一般……",
+          "name": "如盛放的花一般…",
           "desc": "[WhenUse] 对目标施加3层开花 ",
           "coinlist": [
             {
@@ -4259,7 +4259,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "还不够……",
+          "name": "还不够…",
           "desc": "随机指定友方单位",
           "coinlist": [
             {
@@ -4292,7 +4292,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "必须填满……",
+          "name": "必须填满…",
           "desc": "随机指定目标",
           "coinlist": [
             {

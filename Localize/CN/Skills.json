@@ -10956,7 +10956,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "防守动作",
+          "name": "防守闪避",
           "desc": "[OnSucceedEvade] 使目标失去3点理智值",
           "coinlist": [
             {}
@@ -10964,7 +10964,7 @@
         },
         {
           "level": 4,
-          "name": "防守动作",
+          "name": "防守闪避",
           "desc": "[OnSucceedEvade] 使目标失去3点理智值",
           "coinlist": [
             {}

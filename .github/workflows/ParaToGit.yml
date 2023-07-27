@@ -22,10 +22,8 @@ jobs:
         name: error-log
         path: ./Error.txt
     - name: Cancel workflow if Error.txt exists
+      if: steps.check_error.outputs.has_error == 'true'
       run: |
-        if (Test-Path -Path "./Error.txt") {
-        $error = Get-Content ./Error.txt
         echo "Error detected, cancelling workflow"
-        echo $error
+        echo ${{  steps.check_error.outputs.error  }}
         exit 1
-        }

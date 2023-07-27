@@ -7,7 +7,7 @@ if ((Test-Path -Path $ErrorFile)) {
 Remove-Item $ErrorFile
 	}
 else {
-$url = "https://paratranz.cn/api/projects/6860/artifacts/download"
+$url = "https://paratranz.cn/api/projects/7797/artifacts/download"
 $headers = @{
     "Authorization" = "$Authorization"
     "accept" = "*/*"
@@ -32,5 +32,5 @@ if (Test-Path -Path "./Error.txt") {
           git add Localize/*
           $commitMessage = $(Get-Date -Format "MM-dd")+" ParaToGitWrok"
           git commit -m $commitMessage
-          git push https://github-actions[bot]:${ secrets.GH_TOKEN }@github.com/LocalizeLimbusCompany/LLC_Release
+          git push https://github-actions[bot]:${ secrets.GH_TOKEN }@github.com/1ookilo/LLC_Release
           }

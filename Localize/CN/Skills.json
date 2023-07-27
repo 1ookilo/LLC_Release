@@ -6280,13 +6280,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "野蛮劈砍",
-          "desc": "[WinDuel] 使本技能造成的伤害+20%",
+          "name": "베어내기",
+          "desc": "[WinDuel] 피해량 +20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身恢复本硬币伤害量30%的体力"
+                  "desc": "[OnSucceedAttackHead] 피해량의 30%만큼 체력 회복."
                 }
               ]
             },
@@ -6295,13 +6295,13 @@
         },
         {
           "level": 2,
-          "name": "野蛮劈砍",
-          "desc": "[WinDuel] 使本技能造成的伤害+40%",
+          "name": "베어내기",
+          "desc": "[WinDuel] 피해량 +40%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身恢复本硬币伤害量50%的体力"
+                  "desc": "[OnSucceedAttackHead] 피해량의 50%만큼 체력 회복"
                 }
               ]
             },
@@ -6310,13 +6310,13 @@
         },
         {
           "level": 4,
-          "name": "野蛮劈砍",
-          "desc": "[WinDuel] 使本技能造成的伤害+40%\n若目标的破裂 层数不低于5层，则使本技能的硬币威力+1",
+          "name": "베어내기",
+          "desc": "[WinDuel] 피해량 +40%\n대상의 파열 횟수가 5 이상이면, 코인 위력 +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量50%的体力"
+                  "desc": "[OnSucceedAttack] 피해량의 50%만큼 체력 회복"
                 }
               ]
             },
@@ -6330,13 +6330,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "四肢拆解",
+          "name": "사지절단",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttack] 파열 5 부여"
                 }
               ]
             }
@@ -6344,16 +6344,16 @@
         },
         {
           "level": 2,
-          "name": "四肢拆解",
+          "name": "사지절단",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttack] 파열 5 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身恢复本硬币伤害量50%的体力"
+                  "desc": "[OnSucceedAttackHead] 피해량의 50%만큼 체력 회복"
                 }
               ]
             }
@@ -6361,16 +6361,16 @@
         },
         {
           "level": 4,
-          "name": "四肢拆解",
-          "desc": "若目标的破裂 层数不低于5层，则使本技能造成的伤害+50%",
+          "name": "사지절단",
+          "desc": "대상의 파열 횟수가 5 이상이면, 피해량 +50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
+                  "desc": "[OnSucceedAttack] 파열 5 부여"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量50%的体力"
+                  "desc": "[OnSucceedAttack] 피해량의 50%만큼 체력 회복"
                 }
               ]
             }
@@ -6383,34 +6383,34 @@
       "levelList": [
         {
           "level": 3,
-          "name": "开膛破腹",
+          "name": "내장파기",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
+                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
+                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
+                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使自身恢复本硬币伤害量100%的体力"
+                  "desc": "[OnSucceedAttackHead] 피해량의 100%만큼 체력 회복"
                 }
               ]
             }
@@ -6418,34 +6418,34 @@
         },
         {
           "level": 4,
-          "name": "开膛破腹",
-          "desc": "若目标的破裂 层数不低于5层，则使本技能的硬币威力+1",
+          "name": "내장파기",
+          "desc": "대상의 파열 횟수가 5 이상이면, 코인 위력 +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
+                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
+                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
+                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量100%的体力"
+                  "desc": "[OnSucceedAttack] 피해량의 100%만큼 체력 회복"
                 }
               ]
             }
@@ -10120,14 +10120,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗5层符咒 ，并对目标施加7层符咒 "
+                  "desc": "[OnSucceedAttack] 消耗5层符咒 ，并对目标施加5层符咒 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有符咒 ，则对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 若目标带有符咒 ，则对目标施加3层破裂 "
                 }
               ]
             }

@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "event_bonus_description",
-      "content": "活动期间，编队内存在下列人格与E.G.O时<color=#f8c200>[{0}]获取量提升</color>。"
+      "content": "이벤트 기간 동안 해당 인격, E.G.O 편성 시 <color=#f8c200>[{0}]의 획득량이 상승</color>합니다."
     },
     {
       "id": "event_bonus_preview",
-      "content": "将活动人格与E.G.O编入队伍\n以提升[{0}]获取量！"
+      "content": "이벤트 인격 및 E.G.O 편성 시, [{0}] 획득량 상승"
     }
   ]
 }

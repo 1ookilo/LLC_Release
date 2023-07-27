@@ -23,10 +23,10 @@ Start-Process "lib\LLC_To_Paratranz.exe" -Wait
 
 if (Test-Path -Path "./Error.txt") {
           $error = Get-Content ./Error.txt
-          echo "error=$error" >> $GITHUB_OUTPUT
-          echo "has_error=true" >> $GITHUB_OUTPUT
+          echo "error=$error" >> $env:GITHUB_OUTPUT
+          echo "has_error=true" >> $env:GITHUB_OUTPUT
         } else {
-          echo "has_error=false" >> $GITHUB_OUTPUT
+          echo "has_error=false" >> $env:GITHUB_OUTPUT
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add Localize/*

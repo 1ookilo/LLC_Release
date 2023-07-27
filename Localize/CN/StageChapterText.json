@@ -56,12 +56,12 @@
     },
     {
       "id": "chapter_k_9104",
-      "company": "K公司",
-      "area": "11区",
-      "chapter": "间章Ⅱ",
+      "company": "K사",
+      "area": "11구",
+      "chapter": "4.5장",
       "chapterNumber": "4.5",
-      "chaptertitle": "4.5 标题",
-      "timeline": "4.5 时间线"
+      "chaptertitle": "4.5 타이틀",
+      "timeline": "4.5 timeline"
     }
   ]
 }

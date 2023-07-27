@@ -6280,13 +6280,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "베어내기",
-          "desc": "[WinDuel] 피해량 +20%",
+          "name": "野蛮劈砍",
+          "desc": "[WinDuel] 使本技能造成的伤害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 피해량의 30%만큼 체력 회복."
+                  "desc": "[OnSucceedAttackHead] 使自身恢复本硬币伤害量30%的体力"
                 }
               ]
             },
@@ -6295,13 +6295,13 @@
         },
         {
           "level": 2,
-          "name": "베어내기",
-          "desc": "[WinDuel] 피해량 +40%",
+          "name": "野蛮劈砍",
+          "desc": "[WinDuel] 使本技能造成的伤害+40%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 피해량의 50%만큼 체력 회복"
+                  "desc": "[OnSucceedAttackHead] 使自身恢复本硬币伤害量50%的体力"
                 }
               ]
             },
@@ -6310,13 +6310,13 @@
         },
         {
           "level": 4,
-          "name": "베어내기",
-          "desc": "[WinDuel] 피해량 +40%\n대상의 파열 횟수가 5 이상이면, 코인 위력 +1",
+          "name": "野蛮劈砍",
+          "desc": "[WinDuel] 使本技能造成的伤害+40%\n若目标的破裂 强度不低于5级，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 50%만큼 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量50%的体力"
                 }
               ]
             },
@@ -6330,13 +6330,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "사지절단",
+          "name": "四肢拆解",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
                 }
               ]
             }
@@ -6344,16 +6344,16 @@
         },
         {
           "level": 2,
-          "name": "사지절단",
+          "name": "四肢拆解",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 피해량의 50%만큼 체력 회복"
+                  "desc": "[OnSucceedAttackHead] 使自身恢复本硬币伤害量50%的体力"
                 }
               ]
             }
@@ -6361,16 +6361,16 @@
         },
         {
           "level": 4,
-          "name": "사지절단",
-          "desc": "대상의 파열 횟수가 5 이상이면, 피해량 +50%",
+          "name": "四肢拆解",
+          "desc": "若目标的破裂 强度不低于5级，则使本技能造成的伤害+50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 파열 5 부여"
+                  "desc": "[OnSucceedAttack] 使目标增加5级破裂 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 50%만큼 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量50%的体力"
                 }
               ]
             }
@@ -6383,34 +6383,34 @@
       "levelList": [
         {
           "level": 3,
-          "name": "내장파기",
+          "name": "开膛破腹",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
+                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
+                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
+                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 피해량의 100%만큼 체력 회복"
+                  "desc": "[OnSucceedAttackHead] 使自身恢复本硬币伤害量100%的体力"
                 }
               ]
             }
@@ -6418,34 +6418,34 @@
         },
         {
           "level": 4,
-          "name": "내장파기",
-          "desc": "대상의 파열 횟수가 5 이상이면, 코인 위력 +1",
+          "name": "开膛破腹",
+          "desc": "若目标的破裂 强度不低于5级，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
+                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
+                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해"
+                  "desc": "[OnSucceedAttack] 攻击带有破裂 的目标时，本硬币额外造成30%的伤害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 피해량의 100%만큼 체력 회복"
+                  "desc": "[OnSucceedAttack] 使自身恢复本硬币伤害量100%的体力"
                 }
               ]
             }

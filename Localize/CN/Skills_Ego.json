@@ -3049,7 +3049,7 @@
                   "desc": "[OnSucceedAttackHead] 若指定友方单位，则为其恢复体力上限10%的体力"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 使目标增加7级烧伤 强度；若指定友方单位，则下回合使其获得2层迅捷 和1层<sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">罪孽碎片获取量+</color></link></u> "
+                  "desc": "[OnSucceedAttackTail] 使目标增加7级烧伤 强度；若指定友方单位，则下回合使其获得2层迅捷 和1层罪孽碎片获取量提升 "
                 }
               ]
             }

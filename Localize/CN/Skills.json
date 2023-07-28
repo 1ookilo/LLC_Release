@@ -9149,7 +9149,7 @@
         {
           "level": 4,
           "name": "雨伞挥打",
-          "desc": "[WhenUse] 对自身施加1层沉沦\n[DefeatDuel] 使自身增加3级沉沦 强度",
+          "desc": "[WhenUse] 对自身施加1层沉沦 \n[DefeatDuel] 使自身增加3级沉沦 强度",
           "coinlist": [
             {},
             {},
@@ -9159,7 +9159,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加2级沉沦 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标施加3层沉沦"
+                  "desc": "[OnSucceedAttackTail] 对目标施加3层沉沦 "
                 }
               ]
             }

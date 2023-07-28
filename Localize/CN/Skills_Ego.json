@@ -3883,7 +3883,7 @@
           "level": 3,
           "name": "狐雨",
           "abName": "流浪狐狸",
-          "desc": "[BeforeAttack] 本回合与下回合中，使全体友方单位获得1层怠惰强壮 ，2层怠惰伤害强化 与3层守护",
+          "desc": "[BeforeAttack] 本回合与下回合中，使全体友方单位获得1层怠惰强壮 ，2层怠惰伤害强化 与3层守护 ",
           "coinlist": [
             {
               "coindescs": [

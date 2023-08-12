@@ -226,11 +226,11 @@
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_title_04",
-      "content": "成长系数"
+      "content": "攻击容量"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_06_desc_04",
-      "content": "攻击等级与人格等级成比例增长。"
+      "content": "该技能所指定的行动槽数量。根据目标的行动槽容量不同，容量高于1的行动槽可能消耗1以上的攻击容量。"
     },
     {
       "id": "tutorial_mainui_03_identityinfo_page_07_title_01",
@@ -1270,7 +1270,7 @@
     },
     {
       "id": "tutorial_manual_1_season_information_06_desc_01",
-      "content": "同理，自我碎片箱可在规定赛季期间使用。\n\n当新赛季开始时，上一赛季的自我碎片箱总数的一半将转移至下一赛季。\n\n过去多个赛季中未转换的自我碎片箱的专换率将在下一赛季中减半。\n\n其余的自我碎片箱将会被转换为纺锤箱。"
+      "content": "同理，自我碎片箱可在规定赛季期间内使用。\n\n当新赛季开始时，上一赛季的自我碎片箱总数的一半将转移至下一赛季。\n\n过去多个赛季中未转换的自我碎片箱的转换率将在下一赛季减半。\n\n其余的自我碎片箱将会被转换为纺锤箱。"
     },
     {
       "id": "tutorial_manual_1_season_information_07_title_01",
